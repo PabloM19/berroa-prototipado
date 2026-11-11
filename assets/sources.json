@@ -1,0 +1,294 @@
+[
+  {
+    "name": "hero",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/diseno-de-interiores-con-plantas-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/7d87e953e7-diseno-de-interiores-con-plantas-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/hero-720.webp",
+        "width": 720,
+        "height": 489
+      },
+      {
+        "file": "assets/images/hero-1440.webp",
+        "width": 1440,
+        "height": 977
+      }
+    ]
+  },
+  {
+    "name": "interior",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/plantas-de-interior-en-el-estudio-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/plantas-interior/f0dcc53486-plantas-de-interior-en-el-estudio-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/interior-600.webp",
+        "width": 600,
+        "height": 399
+      },
+      {
+        "file": "assets/images/interior-1100.webp",
+        "width": 1100,
+        "height": 732
+      }
+    ]
+  },
+  {
+    "name": "exterior",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/flores-con-macetas-de-colores-en-una-valla-blanca-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/9b520a9281-flores-con-macetas-de-colores-en-una-valla-blanca-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/exterior-600.webp",
+        "width": 600,
+        "height": 400
+      },
+      {
+        "file": "assets/images/exterior-1100.webp",
+        "width": 1100,
+        "height": 733
+      }
+    ]
+  },
+  {
+    "name": "berroa",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/11/20230307_085107.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/6e80ac88ad-20230307_085107.jpg",
+    "variants": [
+      {
+        "file": "assets/images/berroa-600.webp",
+        "width": 600,
+        "height": 450
+      },
+      {
+        "file": "assets/images/berroa-1100.webp",
+        "width": 1100,
+        "height": 825
+      }
+    ]
+  },
+  {
+    "name": "cesteria",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/flores-cesteria-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/b1c01618f1-flores-cesteria-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/cesteria-600.webp",
+        "width": 600,
+        "height": 900
+      },
+      {
+        "file": "assets/images/cesteria-1100.webp",
+        "width": 1100,
+        "height": 1650
+      }
+    ]
+  },
+  {
+    "name": "sombra",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/sombrilla-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/ce2cbae5b9-sombrilla-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/sombra-600.webp",
+        "width": 600,
+        "height": 400
+      },
+      {
+        "file": "assets/images/sombra-1100.webp",
+        "width": 1100,
+        "height": 734
+      }
+    ]
+  },
+  {
+    "name": "insectos",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/hormigas-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/0c1f03ca2b-hormigas-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/insectos-600.webp",
+        "width": 600,
+        "height": 400
+      },
+      {
+        "file": "assets/images/insectos-1100.webp",
+        "width": 1100,
+        "height": 734
+      }
+    ]
+  },
+  {
+    "name": "berroa-logo.png",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/11/cropped-logo_es2.png",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/logos/berroa/738267f4fd-cropped-logo_es2.png",
+    "file": "assets/images/berroa-logo.png"
+  },
+  {
+    "name": "berroa-logo-white.png",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/11/berroa-blanco.png",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/logos/berroa/8fd248acaf-berroa-blanco.png",
+    "file": "assets/images/berroa-logo-white.png"
+  },
+  {
+    "name": "plan-recuperacion.png",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/12/LOGO-NEGATIVO.png",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/logos/institucionales/b825a9275c-LOGO-NEGATIVO.png",
+    "file": "assets/images/plan-recuperacion.png"
+  },
+  {
+    "name": "union-europea.png",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/12/ES_Financiado_por_la_Union_Europea_RGB_WHITE_Outline-scaled-1.png",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/logos/institucionales/dbc19b4f72-ES_Financiado_por_la_Union_Europea_RGB_WHITE_Outline-scaled-1.png",
+    "file": "assets/images/union-europea.png"
+  },
+  {
+    "name": "follaje",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/10/diseno-de-habitacion-relajante-con-plantas-verdes-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/decoracion-interior/d824a37479-diseno-de-habitacion-relajante-con-plantas-verdes-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/follaje-760.webp",
+        "width": 760,
+        "height": 512
+      }
+    ]
+  },
+  {
+    "name": "maceteros",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/vista-frontal-del-concepto-de-diseno-de-habitacion-interior-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/decoracion-interior/34060f048e-vista-frontal-del-concepto-de-diseno-de-habitacion-interior-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/maceteros-760.webp",
+        "width": 633,
+        "height": 950
+      }
+    ]
+  },
+  {
+    "name": "trasplante",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/10/mujer-trasplantar-una-planta-de-interior-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/335822b3f7-mujer-trasplantar-una-planta-de-interior-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/trasplante-760.webp",
+        "width": 760,
+        "height": 507
+      }
+    ]
+  },
+  {
+    "name": "terraza",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/10/patio-al-aire-libre-en-el-jardin-con-sillas-y-almohadas-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/b973fc3455-patio-al-aire-libre-en-el-jardin-con-sillas-y-almohadas-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/terraza-760.webp",
+        "width": 760,
+        "height": 507
+      }
+    ]
+  },
+  {
+    "name": "jardin",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/diseno-de-paisaje-creativo-de-una-hermosa-casa-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/plantas-exterior/a1d4948825-diseno-de-paisaje-creativo-de-una-hermosa-casa-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/jardin-760.webp",
+        "width": 633,
+        "height": 950
+      }
+    ]
+  },
+  {
+    "name": "abono-flor",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/jardinarium-fertilizante-1L-1.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/58b6ca10ad-jardinarium-fertilizante-1L-1.jpg",
+    "variants": [
+      {
+        "file": "assets/images/productos/abono-flor.webp",
+        "width": 352,
+        "height": 680
+      }
+    ]
+  },
+  {
+    "name": "sustrato-geranios",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/jardinarium-substrato-20kg-1.png",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/ef3ee01767-jardinarium-substrato-20kg-1.png",
+    "variants": [
+      {
+        "file": "assets/images/productos/sustrato-geranios.webp",
+        "width": 378,
+        "height": 680
+      }
+    ]
+  },
+  {
+    "name": "abono-cesped",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/jardinarium-abono-2kg-1.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/ab504e93cf-jardinarium-abono-2kg-1.jpg",
+    "variants": [
+      {
+        "file": "assets/images/productos/abono-cesped.webp",
+        "width": 596,
+        "height": 680
+      }
+    ]
+  },
+  {
+    "name": "jardineras-millenium",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/jardinarium-millenium-1.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/641efb8a38-jardinarium-millenium-1.jpg",
+    "variants": [
+      {
+        "file": "assets/images/productos/jardineras-millenium.webp",
+        "width": 680,
+        "height": 680
+      }
+    ]
+  },
+  {
+    "name": "jardinarium-sello.png",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/3-scaled.png",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/logos/jardinarium/137cfc8ac5-3-scaled.png",
+    "file": "assets/images/jardinarium-sello.png"
+  },
+  {
+    "name": "exterior-categoria",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/10/sofa-en-una-sala-de-estar-decorada-con-diseno-folclorico-brasileno-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/muebles-jardin/87a0d432e0-sofa-en-una-sala-de-estar-decorada-con-diseno-folclorico-brasileno-scaled.jpg",
+    "variants": [
+      {
+        "file": "assets/images/exterior-categoria-600.webp",
+        "width": 600,
+        "height": 336
+      },
+      {
+        "file": "assets/images/exterior-categoria-1100.webp",
+        "width": 1100,
+        "height": 617
+      }
+    ]
+  },
+  {
+    "name": "oferta-floristeria",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/07/arreglo-de-ramo-de-flores-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/71b216753d-arreglo-de-ramo-de-flores-scaled.jpg",
+    "file": "assets/images/oferta-floristeria.webp"
+  },
+  {
+    "name": "oferta-mobiliario",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/10/hermosos-muebles-de-madera-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/home/893ee1bc7e-hermosos-muebles-de-madera-scaled.jpg",
+    "file": "assets/images/oferta-mobiliario.webp"
+  },
+  {
+    "name": "oferta-plantacion",
+    "source": "https://berroagarden.com/wp-content/uploads/2025/10/primer-jardinero-plantar-flores-en-el-suelo-scaled.jpg",
+    "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/plantacion/40cc0fd3e5-primer-jardinero-plantar-flores-en-el-suelo-scaled.jpg",
+    "file": "assets/images/oferta-plantacion.webp"
+  }
+]

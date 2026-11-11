@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "source": "https://jardinariumgarden.com/wp-content/uploads/2026/11/1.jpg",
+    "variants": [
+      {
+        "file": "assets/images/campanas/campana-1-700.webp",
+        "width": 700,
+        "height": 263
+      },
+      {
+        "file": "assets/images/campanas/campana-1-1440.webp",
+        "width": 1440,
+        "height": 540
+      }
+    ],
+    "embed_source": "https://jardinariumgarden.com/banner/"
+  },
+  {
+    "id": 2,
+    "source": "https://jardinariumgarden.com/wp-content/uploads/2026/11/3.jpg",
+    "variants": [
+      {
+        "file": "assets/images/campanas/campana-2-700.webp",
+        "width": 700,
+        "height": 263
+      },
+      {
+        "file": "assets/images/campanas/campana-2-1440.webp",
+        "width": 1440,
+        "height": 540
+      }
+    ],
+    "embed_source": "https://jardinariumgarden.com/banner/"
+  },
+  {
+    "id": 3,
+    "source": "https://jardinariumgarden.com/wp-content/uploads/2026/11/7.jpg",
+    "variants": [
+      {
+        "file": "assets/images/campanas/campana-3-700.webp",
+        "width": 700,
+        "height": 263
+      },
+      {
+        "file": "assets/images/campanas/campana-3-1440.webp",
+        "width": 1440,
+        "height": 540
+      }
+    ],
+    "embed_source": "https://jardinariumgarden.com/banner/"
+  },
+  {
+    "id": 4,
+    "source": "https://jardinariumgarden.com/wp-content/uploads/2026/11/4.jpg",
+    "variants": [
+      {
+        "file": "assets/images/campanas/campana-4-700.webp",
+        "width": 700,
+        "height": 263
+      },
+      {
+        "file": "assets/images/campanas/campana-4-1440.webp",
+        "width": 1440,
+        "height": 540
+      }
+    ],
+    "embed_source": "https://jardinariumgarden.com/banner/"
+  },
+  {
+    "id": 5,
+    "source": "https://jardinariumgarden.com/wp-content/uploads/2026/11/5.jpg",
+    "variants": [
+      {
+        "file": "assets/images/campanas/campana-5-700.webp",
+        "width": 700,
+        "height": 263
+      },
+      {
+        "file": "assets/images/campanas/campana-5-1440.webp",
+        "width": 1440,
+        "height": 540
+      }
+    ],
+    "embed_source": "https://jardinariumgarden.com/banner/"
+  },
+  {
+    "id": 6,
+    "source": "https://jardinariumgarden.com/wp-content/uploads/2026/11/6.jpg",
+    "variants": [
+      {
+        "file": "assets/images/campanas/campana-6-700.webp",
+        "width": 700,
+        "height": 263
+      },
+      {
+        "file": "assets/images/campanas/campana-6-1440.webp",
+        "width": 1440,
+        "height": 540
+      }
+    ],
+    "embed_source": "https://jardinariumgarden.com/banner/"
+  },
+  {
+    "id": 7,
+    "source": "https://jardinariumgarden.com/wp-content/uploads/2026/11/8.jpg",
+    "variants": [
+      {
+        "file": "assets/images/campanas/campana-7-700.webp",
+        "width": 700,
+        "height": 263
+      },
+      {
+        "file": "assets/images/campanas/campana-7-1440.webp",
+        "width": 1440,
+        "height": 540
+      }
+    ],
+    "embed_source": "https://jardinariumgarden.com/banner/"
+  },
+  {
+    "id": 8,
+    "source": "https://jardinariumgarden.com/wp-content/uploads/2026/11/2.jpg",
+    "variants": [
+      {
+        "file": "assets/images/campanas/campana-8-700.webp",
+        "width": 700,
+        "height": 293
+      },
+      {
+        "file": "assets/images/campanas/campana-8-1440.webp",
+        "width": 1433,
+        "height": 599
+      }
+    ],
+    "embed_source": "https://jardinariumgarden.com/banner/"
+  },
+  {
+    "id": 9,
+    "source": "https://jardinariumgarden.com/wp-content/uploads/2026/03/BANNER-WEB-CATALOGO-2026-CAST.jpg",
+    "variants": [
+      {
+        "file": "assets/images/campanas/campana-9-700.webp",
+        "width": 700,
+        "height": 350
+      },
+      {
+        "file": "assets/images/campanas/campana-9-1440.webp",
+        "width": 1440,
+        "height": 720
+      }
+    ],
+    "embed_source": "https://jardinariumgarden.com/banner/"
+  }
+]

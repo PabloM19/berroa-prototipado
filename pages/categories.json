@@ -1,0 +1,146 @@
+{
+  "interior": {
+    "label": "Plantas de interior",
+    "description": "Plantas de interior, maceteros y asesoramiento para elegir según la luz y el espacio de tu casa. Descúbrelos en Berroa Garden, Huarte.",
+    "intro": "Para la ventana que recibe toda la luz, el rincón de lectura o esa estantería que pide algo de vida. En Berroa te ayudamos a encontrar una planta que encaje en tu casa y en tu rutina.",
+    "image": "interior-1100.webp",
+    "alt": "Plantas de interior en macetas junto a una ventana luminosa",
+    "tipsTitle": "Antes de elegir tu planta",
+    "tips": [
+      [
+        "sun",
+        "La luz",
+        "Fíjate en si el sol llega directamente a las hojas y durante cuánto tiempo. La luz junto a una ventana puede ser muy distinta de la de un rincón al fondo."
+      ],
+      [
+        "leaf",
+        "El espacio",
+        "Mide el hueco y ten en cuenta cuánto crecerá la planta. En una estantería puede ir bien una colgante. Para un rincón amplio, piensa en una planta de porte mayor."
+      ],
+      [
+        "heart",
+        "Los cuidados",
+        "Cuéntanos con qué frecuencia estás en casa y qué experiencia tienes. Así podremos recomendarte una planta cuyo riego y mantenimiento puedas asumir."
+      ]
+    ],
+    "galleryTitle": "Tres ideas para tu casa",
+    "ideas": [
+      [
+        "follaje-760.webp",
+        "Sillón rodeado de plantas de follaje en macetas",
+        "Un rincón de lectura",
+        "Combina plantas de distintas alturas y elige especies que compartan las condiciones de luz del rincón."
+      ],
+      [
+        "maceteros-760.webp",
+        "Cesta de fibras naturales junto a un jarrón en un interior",
+        "Texturas naturales",
+        "La cerámica y las fibras naturales ayudan a vestir el espacio. Deja la planta en una maceta con drenaje dentro del cubremacetas."
+      ],
+      [
+        "trasplante-760.webp",
+        "Persona trasplantando una planta de interior",
+        "Una maceta a su medida",
+        "Si necesita un trasplante, elige un recipiente ligeramente mayor que el cepellón y un sustrato adecuado a la especie."
+      ]
+    ],
+    "advice": "Si traes una foto del espacio y nos cuentas a qué hora le da el sol, podremos orientarte mejor sobre plantas, macetas y cuidados.",
+    "questions": [
+      [
+        "¿Qué puedo poner en un rincón con poca luz?",
+        "Primero, comprueba si recibe algo de luz natural. Algunas plantas toleran menos luz que otras, pero una habitación sin luz natural necesita iluminación de cultivo para mantenerlas."
+      ],
+      [
+        "¿Cada cuánto debo regar?",
+        "Depende de la planta, la luz, la temperatura y la maceta. Comprueba la humedad del sustrato y sigue las necesidades de la especie antes de decidir si toca regar."
+      ],
+      [
+        "¿Puedo usar un cesto como macetero?",
+        "Sí, como cubremacetas. Conserva una maceta interior con agujeros, deja que escurra tras el riego y retira el agua acumulada para que las raíces no queden encharcadas."
+      ]
+    ],
+    "source": [
+      "Guía de plantas de interior de la RHS",
+      "https://www.rhs.org.uk/plants/types/houseplants/growing-guide"
+    ],
+    "article": [
+      "cesteria-600.webp",
+      "Flores en cestas de fibras naturales",
+      "Cestas naturales y plantas",
+      "Ideas para combinar fibras, macetas y follaje en casa.",
+      "/blog/cestas-naturales-decoracion-plantas/"
+    ]
+  },
+  "exterior": {
+    "label": "Plantas de exterior",
+    "description": "Ideas de plantas para balcones, terrazas y jardines. Descubre cómo elegir según el sol, el espacio y el riego con Berroa Garden.",
+    "intro": "Desde unas jardineras en el balcón hasta un jardín con espacio para crecer. Te ayudamos a elegir plantas, macetas y sustratos adecuados a las condiciones de tu exterior.",
+    "image": "exterior-categoria-1100.webp",
+    "alt": "Terraza con un sofá entre plantas y macetas grandes",
+    "tipsTitle": "Antes de plantar fuera",
+    "tips": [
+      [
+        "sun",
+        "Sol y abrigo",
+        "Observa las horas de sol, el viento y si el lugar queda expuesto a heladas. Una terraza resguardada y un jardín abierto pueden necesitar plantas distintas."
+      ],
+      [
+        "leaf",
+        "Maceta o suelo",
+        "En una maceta importa el tamaño y que el agua pueda salir. Si plantas en suelo, deja sitio para el tamaño que alcanzará la planta adulta."
+      ],
+      [
+        "heart",
+        "Riego y tiempo",
+        "Piensa en cómo regarás en verano. Las macetas pequeñas al sol suelen secarse antes, así que conviene revisarlas con más frecuencia."
+      ]
+    ],
+    "galleryTitle": "Un verde para cada exterior",
+    "ideas": [
+      [
+        "exterior-600.webp",
+        "Jardineras de colores con flores en un balcón",
+        "Balcón",
+        "Empieza con jardineras y plantas acordes a la exposición. Comprueba que los recipientes se puedan fijar con seguridad."
+      ],
+      [
+        "terraza-760.webp",
+        "Sofá con cojines en una terraza rodeada de plantas",
+        "Terraza",
+        "Agrupa macetas con necesidades parecidas y deja espacio para sentarte, pasar y regar cómodamente."
+      ],
+      [
+        "jardin-760.webp",
+        "Jardín con macizos y arbustos junto a una casa",
+        "Jardín",
+        "Piensa primero en las zonas de paso y en cómo cambia la luz. Después elige qué plantas quieres ver desde cada punto."
+      ]
+    ],
+    "advice": "Cuéntanos cómo es tu espacio, cuántas horas de sol recibe y cómo piensas regarlo. En el garden te orientamos sobre qué plantar y cómo empezar.",
+    "questions": [
+      [
+        "¿Qué plantas puedo poner en una terraza con mucho sol?",
+        "Busca plantas aptas para pleno sol y valora también el viento, las heladas y el tamaño de la maceta. Si vas a combinar varias, elige plantas con necesidades parecidas."
+      ],
+      [
+        "¿Cómo elijo una maceta para exterior?",
+        "Busca un recipiente con agujeros de drenaje y tamaño suficiente para la planta. Si el espacio está expuesto, comprueba que la maceta sea estable y que el material soporte las condiciones del lugar."
+      ],
+      [
+        "¿Una planta en maceta necesita más riego que una en suelo?",
+        "A menudo sí. La maceta tiene una reserva de agua limitada y se seca antes con calor y viento. Comprueba la humedad y ajusta el riego a la especie y a la época."
+      ]
+    ],
+    "source": [
+      "Guía de cultivo en macetas de la RHS",
+      "https://www.rhs.org.uk/container-gardening/growing-plants-in-containers"
+    ],
+    "article": [
+      "sombra-600.webp",
+      "Sombrilla en una zona de descanso exterior",
+      "Ideas para disfrutar de la sombra",
+      "Sombrillas, pérgolas y soluciones vegetales para estar a gusto fuera.",
+      "/blog/sombra-jardin-terraza/"
+    ]
+  }
+}
