@@ -290,5 +290,38 @@
     "source": "https://berroagarden.com/wp-content/uploads/2025/10/primer-jardinero-plantar-flores-en-el-suelo-scaled.jpg",
     "original": "/Users/bleras/Documents/zerion/0.GreenDigital/Previo/berroa-garden/investigacion-2026-11-11/imagenes/plantacion/40cc0fd3e5-primer-jardinero-plantar-flores-en-el-suelo-scaled.jpg",
     "file": "assets/images/oferta-plantacion.webp"
+  },
+  {
+    "name": "chat-monstera",
+    "source": "https://greendigital.es/plataforma/directorio/plantas/monstera-deliciosa",
+    "variants": [
+      {
+        "file": "assets/images/chat/monstera.webp",
+        "width": 337,
+        "height": 450
+      }
+    ]
+  },
+  {
+    "name": "chat-aspidistra",
+    "source": "https://greendigital.es/plataforma/directorio/plantas/aspidistra-elatior",
+    "variants": [
+      {
+        "file": "assets/images/chat/aspidistra.webp",
+        "width": 337,
+        "height": 450
+      }
+    ]
+  },
+  {
+    "name": "chat-lavanda",
+    "source": "https://greendigital.es/plataforma/directorio/plantas/lavandula-angustifolia",
+    "variants": [
+      {
+        "file": "assets/images/chat/lavanda.webp",
+        "width": 337,
+        "height": 450
+      }
+    ]
   }
 ]

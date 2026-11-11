@@ -24,7 +24,7 @@ const server = http.createServer(async (req, res) => {
       res.end(req.method === 'HEAD' ? undefined : page);
       return;
     }
-    if (!['/styles.css', '/home.css', '/category.css', '/offer.css', '/contact.css', '/blog.css', '/app.js', '/contact.js', '/blog.js'].includes(route) && !route.startsWith('/assets/')) {
+    if (!['/styles.css', '/home.css', '/category.css', '/offer.css', '/contact.css', '/blog.css', '/app.js', '/contact.js', '/blog.js', '/chatbot.css', '/chatbot.js'].includes(route) && !route.startsWith('/assets/')) {
       res.writeHead(404).end('Página no encontrada');
       return;
     }
@@ -39,7 +39,7 @@ const server = http.createServer(async (req, res) => {
 });
 let timer;
 const watcher = watch(root, { recursive: true }, (_, file) => {
-  if (!file || file.startsWith('dist/') || file.startsWith('node_modules/') || file.startsWith('qa/')) return;
+  if (!file || file.startsWith('.git/') || file.startsWith('dist/') || file.startsWith('node_modules/') || file.startsWith('qa/')) return;
   clearTimeout(timer); timer = setTimeout(() => { for (const client of clients) client.write('event: change\ndata: reload\n\n'); }, 200);
 });
 const heartbeat = setInterval(() => { for (const client of clients) client.write(': heartbeat\n\n'); }, 15000);

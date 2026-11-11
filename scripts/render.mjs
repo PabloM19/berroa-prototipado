@@ -44,9 +44,10 @@ export async function renderPage(route) {
     styles: ['/category.css', '/blog.css'],
     scripts: ['/blog.js'],
   } : staticPages[route];
-  const [layout, page] = await Promise.all([
+  const [layout, page, chatbot] = await Promise.all([
     readFile(new URL('layout.html', pages), 'utf8'),
     isBlog ? Promise.resolve(article ? renderArticle(article) : renderBlog()) : readFile(new URL(staticPage?.source ?? 'categories.json', pages), 'utf8'),
+    readFile(new URL('chatbot.html', pages), 'utf8'),
   ]);
   const category = kind ? JSON.parse(page)[kind] : null;
   const metadata = staticPage ?? {
@@ -58,6 +59,7 @@ export async function renderPage(route) {
 
   const values = {
     ...metadata,
+    chatbot,
     pageStyles: metadata.styles.map(href => `<link rel="stylesheet" href="${href}">`).join(''),
     pageScripts: (metadata.scripts ?? []).map(src => `<script src="${src}" defer></script>`).join(''),
     homePrefix: route === '/' ? '' : '/',
