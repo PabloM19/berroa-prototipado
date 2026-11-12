@@ -61,7 +61,8 @@
 
 .back-top {
   position: fixed;
-  inset-inline-end: max(18px, env(safe-area-inset-right));
+  inset-inline-start: max(18px, env(safe-area-inset-left));
+  inset-inline-end: auto;
   inset-block-end: max(18px, env(safe-area-inset-bottom));
   z-index: 40;
   display: grid;
